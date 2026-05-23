@@ -51,7 +51,7 @@ Follow these steps to set up and run the project locally:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/akashdeep023/Chat_App.git
+    git clone https://github.com/srimithasenthilkumar/Chat_App.git
     cd Chat_App
     ```
 
@@ -77,7 +77,7 @@ Follow these steps to set up and run the project locally:
     Frontend Folder :
 
     ```bash
-    VITE_BACKEND_URL=http://localhost:9000
+    VITE_BACKEND_URL=http://localhost:5001
     ```
 
     Backend Folder :
@@ -85,8 +85,8 @@ Follow these steps to set up and run the project locally:
     ```bash
     FRONTEND_URL=http://localhost:5173
     MONGODB_URI=mongodb://127.0.0.1:27017/chat-app
-    PORT=9000
-    JWT_SECRET=secret-kvndkvdlkajkhkJkBiu6JJNjkbhkvnskcmhLJ5dKbkjsamnv
+    PORT=5001
+    JWT_SECRET=whatsapp_clone_secret_123
     ```
 
     Replace the values with your specific configurations.
